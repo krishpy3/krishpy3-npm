@@ -23,7 +23,7 @@ jobs:
         run: echo "@krishpy3:registry=https://npm.pkg.github.com" > .npmrc
 
       - name: Authenticate with GitHub Package Registry
-        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.NEW_GITHUB_TOKEN }}" >> .npmrc
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.NPM_TOKEN }}" >> .npmrc
       
       - name: Print npmrc
         run: cat .npmrc
@@ -34,5 +34,5 @@ jobs:
       - name: Generate changelog and release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NEW_GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
