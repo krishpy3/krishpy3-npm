@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/krishpy3/krishpy3-npm/compare/v1.2.0...v1.2.1) (2024-05-26)
+
+
+### Bug Fixes
+
+* Testing direct npm ([73239a1](https://github.com/krishpy3/krishpy3-npm/commit/73239a16ae769520fab7fd58ca3e4d0b8bee41c1))
+
 # [1.2.0](https://github.com/krishpy3/krishpy3-npm/compare/v1.1.0...v1.2.0) (2024-05-26)
 
 
