@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/krishpy3/krishpy3-npm/compare/v1.0.3...v1.1.0) (2024-05-26)
+
+
+### Features
+
+* check ([44d8672](https://github.com/krishpy3/krishpy3-npm/commit/44d867200dcb0de0dfed7fb6fcbd2561ac31bcd6))
+* fixed ([80c1f83](https://github.com/krishpy3/krishpy3-npm/commit/80c1f83ebe76dcac8707ead8cd61b0de3ccdab01))
+* new check ([ec7d331](https://github.com/krishpy3/krishpy3-npm/commit/ec7d3317825abad9d8d6d7dc66e989e7fe8b810d))
+* test1 ([ef3631c](https://github.com/krishpy3/krishpy3-npm/commit/ef3631c2d2f063b41f2deb1befe1a401de018f9e))
+* test2 ([5ba1939](https://github.com/krishpy3/krishpy3-npm/commit/5ba193949a98c31358dc91ab42f5a65edc6e7de3))
+* test3 ([2c21278](https://github.com/krishpy3/krishpy3-npm/commit/2c2127840506c4d5001c766c2f9d3bd935c2337a))
+
 ## [1.0.3](https://github.com/krishpy3/krishpy3-npm/compare/v1.0.2...v1.0.3) (2024-05-26)
 
 
