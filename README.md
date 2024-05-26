@@ -7,3 +7,5 @@ This is a simple example npm package.
 ```bash
 npm install semantic-release
 ```
+
+// updated
