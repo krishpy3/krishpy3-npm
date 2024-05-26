@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/krishpy3/krishpy3-npm/compare/v1.0.2...v1.0.3) (2024-05-26)
+
+
+### Bug Fixes
+
+* moved to github ([4348a4a](https://github.com/krishpy3/krishpy3-npm/commit/4348a4a5379a87be550961936211842316591531))
+
 ## [1.0.2](https://github.com/krishpy3/krishpy3-npm/compare/v1.0.1...v1.0.2) (2024-05-20)
 
 
