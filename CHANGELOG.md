@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/krishpy3/krishpy3-npm/compare/v1.2.1...v1.3.0) (2024-05-26)
+
+
+### Features
+
+* updated readme ([6beeeaf](https://github.com/krishpy3/krishpy3-npm/commit/6beeeaf32f7938b878081f68f6eadf475ac43dac))
+
 ## [1.2.1](https://github.com/krishpy3/krishpy3-npm/compare/v1.2.0...v1.2.1) (2024-05-26)
 
 
